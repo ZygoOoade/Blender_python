@@ -1,4 +1,4 @@
-### Blender renderings performed on Google Colab and Kaggle
+### Blender on Google Colab
 
 ### Video generation
 
